@@ -49,7 +49,7 @@ Since this is based on random draws, the probability will be slightly different 
 
 ### Development
 
-Write your code in `prob_calculator.py`. For development, you can use `main.py` to test your code. Click the "run" button and `main.py` will run.
+Write your code in [`prob_calculator.py`](https://github.com/schmwong/freeCodeCamp-probability-calculator/blob/main/prob_calculator.py). For development, you can use `main.py` to test your code. Click the "run" button and `main.py` will run.
 
 The boilerplate includes `import` statements for the `copy` and `random` modules. Consider using those in your project.
 
